@@ -10,8 +10,8 @@
 body {
   font-family: cursive; /* Sets a default font */
   line-height: 2.6; /* Improves readability */
-  color: #sssssf; /* Sets a default text color */
-  background-color: #ssssss; /* Sets a light background color */
+  color: #ffffff; /* Sets a default text color */
+  background-color: #0000ff; /* Sets a light background color */
 }
 
 /* Typography Defaults */
@@ -24,7 +24,7 @@ p {
 }
 
 a {
-  color: #7b7bff; /* Sets a default link color */
+  color: #1010ff; /* Sets a default link color */
   text-decoration: none; /* Removes underline from links */
 }
 
