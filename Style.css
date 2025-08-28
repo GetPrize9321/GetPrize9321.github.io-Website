@@ -27,12 +27,12 @@ p {
 }
 
 a {
-  color: #1010ff; /* Sets a default link color */
+  color: #00ffff; /* Sets a default link color */
   text-decoration: none; /* Removes underline from links */
 }
 
 a:hover {
-  text-decoration: line-through; /* Adds underline on hover for links */
+  text-decoration: wavy; /* Adds underline on hover for links */
 }
 
 /* Image Responsiveness */
