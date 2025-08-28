@@ -27,8 +27,8 @@ p {
 }
 
 a {
-  color: #00ffff; /* Sets a default link color */
-  text-decoration: none; /* Removes underline from links */
+  color: #fff000; /* Sets a default link color */
+  text-decoration: underline; /* Removes underline from links */
 }
 
 a:hover {
